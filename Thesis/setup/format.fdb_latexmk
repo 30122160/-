@@ -1,0 +1,15 @@
+# Fdb version 3
+["pdflatex"] 1463492483 "format.tex" "format.pdf" "format" 1463492483
+  "./format.tex" 1462888099 12060 1dc983322df6a14abee909687f416820 ""
+  "d:/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1463033996 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "d:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1463032665 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "d:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1463032665 1288 655e228510b4c2a1abe905c368440826 ""
+  "d:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1463032665 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
+  "d:/texlive/2015/texmf-dist/web2c/texmf.cnf" 1463034140 31983 18aeec08f48baa3cf3508d538dd5f459 ""
+  "d:/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1463034790 3846276 285250457885b5709303e864d8c517b1 ""
+  "d:/texlive/2015/texmf.cnf" 1463034680 497 7277663fd190ea5a4fe922b182dc7be2 ""
+  "format.aux" 1463491990 9 a94a2480d3289e625eea47cd1b285758 ""
+  "format.tex" 1462888099 12060 1dc983322df6a14abee909687f416820 ""
+  (generated)
+  "format.log"
+  "format.pdf"

@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tjumain.aux
+A level-1 auxiliary file: body.aux
+The style file: references/ref.buk.bst
+A level-1 auxiliary file: appendix/paperInEnglish.aux
+A level-1 auxiliary file: appendix/paperInChinese.aux
+A level-1 auxiliary file: appendix/acknowledgements.aux
+"@" can't start a style-file command---line 1 of file references/ref.buk.bst
+ : 
+ : @@ -1,2543 +0,0 @@
+(Error may have been on previous line)
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references/reference.bib
+Warning--I didn't find a database entry for "1"
+-- BUPTThesis.bst version 0.2 (2009/01/25) by Yu Zhang.
+-- http://code.google.com/p/buptthesis/
+-- See the "userguide.pdf" manual for usage information.
+Warning--there's a publisher but no address in kopka2004guide
+Warning--The editor in agrawal2007resolving is missing.
+Warning--empty editor in agrawal2007resolving
+Warning--The editor in zhang2010tree is missing.
+Warning--empty editor in zhang2010tree
+Warning--The editor in Niwa1990 is missing.
+Warning--empty editor in Niwa1990
+
+Done.
+You've used 20 entries,
+            4577 wiz_defined-function locations,
+            1131 strings with 10009 characters,
+and the built_in function-call counts, 8736 in all, are:
+= -- 974
+> -- 122
+< -- 14
++ -- 64
+- -- 32
+* -- 694
+:= -- 947
+add.period$ -- 62
+call.type$ -- 20
+change.case$ -- 2
+chr.to.int$ -- 18
+cite$ -- 27
+duplicate$ -- 577
+empty$ -- 988
+format.name$ -- 32
+if$ -- 2146
+int.to.chr$ -- 0
+int.to.str$ -- 20
+missing$ -- 0
+newline$ -- 106
+num.names$ -- 20
+pop$ -- 94
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 230
+stack$ -- 0
+substring$ -- 918
+swap$ -- 173
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 171
+warning$ -- 7
+while$ -- 78
+width$ -- 22
+write$ -- 162
+(There was 1 error message)
